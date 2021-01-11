@@ -1,7 +1,6 @@
 ### Hi there 👋
 My name is Muhammad Risqi Firdaus, an undergraduate student.
-🔭 I’m currently working on schoolpad.id as quality assurance
-🌱 I’m currently learning backend
+\n🔭 I’m currently working on schoolpad.id as quality assurance \n🌱 I’m currently learning backend
 <!--
 **mrfirdauss-20/mrfirdauss-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

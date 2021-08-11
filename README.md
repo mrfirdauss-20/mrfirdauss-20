@@ -1,8 +1,8 @@
 ### Hi there 👋
-My name is Muhammad Risqi Firdaus, an undergraduate student.
+My name is Muhammad Risqi Firdaus, an undergraduate computer science student at Institut Teknologi Bandung.
 <br>🔭 I’m currently unemployed <br>
-An startup enthusiast and long life learner.
-You can reachme via linkedin [📫Linkedin](https://www.linkedin.com/in/mrfirdauss/)
+⚡An startup enthusiast and long life learner.
+<br>📫You can reachme via linkedin [Linkedin](https://www.linkedin.com/in/mrfirdauss/)
 <!--
 **mrfirdauss-20/mrfirdauss-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

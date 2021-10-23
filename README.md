@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Muhammad Risqi Firdaus, an undergraduate computer science student at Institut Teknologi Bandung.
-<br>🔭 I’m currently unemployed <br>
+<br>🔭 I’m currently learning abput software development <br>
 ⚡An startup enthusiast and long life learner.
 <br>📫You can reachme via linkedin [Linkedin](https://www.linkedin.com/in/mrfirdauss/)
 <!--
